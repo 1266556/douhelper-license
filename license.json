@@ -1,0 +1,17 @@
+{
+  "global_enabled": 1,
+  "min_version_code": 200,
+  "latest_version": "2.2.0",
+  "latest_version_code": 200,
+  "ts": 1789220483,
+  "blacklist": [],
+  "features": {
+    "like": true,
+    "dislike": true,
+    "block_popups": true,
+    "block_user": true,
+    "show_float_button": true,
+    "mark_eye": true
+  },
+  "msg": ""
+}
